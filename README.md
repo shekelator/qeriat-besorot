@@ -6,17 +6,17 @@ Based on http://ourrabbis.org/main/resources/chayyei-yeshua-reading-cycle.
 | --------------------- | ------------------- | ------------- | ------------- |
 | **GENESIS**           |                     |               |               |
 | Bereshit              | [John 1:1-18](texts/B'reisheet%20ABC.htm) | | |
-| Noach                 | Matthew 1:1-17      | Luke 1:26-38  | John 1:19-34  |
-| Lech-Lecha            | Matthew 1:18-25     | Luke 2:1-20   | John 1:35-51  |
-| Vayyera               | Matthew 2:1-12      | Luke 2:21-40  | John 2:1-12   |
-| Chayyei Sara          | Matthew 3:1-12      | Luke 3:1-17   | John 2:13-25  |
-| Toledot               | Matthew 3:13-4:11   | Luke 3:18-38  | John 3:1-21   |
-| Vayyetze              | Mark 1:14-28        | Luke 4:1-15   | John 4:5-30   |
-| Vayyishlach           | Mark 1:29-45        | Luke 4:16-30  | John 4:31-42  |
-| Vayyeshev             | Matthew 5:1-16      | Luke 4:31-44  | John 4:43-54  |
-| Miqqetz               | Matthew 5:17-26     | Luke 5:1-11   | John 5:1-15   |
-| Vayyigash             | Matthew 5:27-48     | Luke 5:12-26  | John 5:16-29  |
-| Vayyechi              | Matthew 6:1-18      | Luke 5:27-39  | John 5:30-47  |
+| Noach                 | [Matthew 1:1-17](texts/Noach%20A.htm)      | Luke 1:26-38  | John 1:19-34  |
+| Lech-Lecha            | [Matthew 1:18-25](texts/Lech%20Lecha%20A.htm)     | Luke 2:1-20   | John 1:35-51  |
+| Vayyera               | [Matthew 2:1-12](texts/Vayera%20A.htm)      | Luke 2:21-40  | John 2:1-12   |
+| Chayyei Sara          | [Matthew 3:1-12](texts/Chayei%20Sarah%20A.htm)      | Luke 3:1-17   | John 2:13-25  |
+| Toledot               | [Matthew 3:13-4:11](texts/Toldot%20A.htm)   | Luke 3:18-38  | John 3:1-21   |
+| Vayyetze              | [Mark 1:14-28](texts/Vayetze%20A.htm)        | Luke 4:1-15   | John 4:5-30   |
+| Vayyishlach           | [Mark 1:29-45](texts/Vayishlach%20A.htm)        | Luke 4:16-30  | John 4:31-42  |
+| Vayyeshev             | [Matthew 5:1-16](texts/Vayeshev%20A.htm)      | Luke 4:31-44  | John 4:43-54  |
+| Miqqetz               | [Matthew 5:17-26](texts/Miketz%20A.htm)     | Luke 5:1-11   | John 5:1-15   |
+| Vayyigash             | [Matthew 5:27-48](texts/Vayigash%20A.htm)     | Luke 5:12-26  | John 5:16-29  |
+| Vayyechi              | [Matthew 6:1-18](texts/Vayechi%20A.htm)      | Luke 5:27-39  | John 5:30-47  |
 | **EXODUS**            |                     |               |               |
 | Shemot                | Matthew 6:19-34     | Luke 6:1-16   | John 6:1-15   |
 | Va'era                | Matthew 7:1-12      | Luke 6:17-38  | John 6:16-29  |
@@ -96,6 +96,7 @@ Based on http://ourrabbis.org/main/resources/chayyei-yeshua-reading-cycle.
 
 ℹ️ *Readings for special Shabbats replace the normal reading for a given Shabbat*
 
-Year A: 5783 (2022-23); 5786 (2025-26); 5789 (2028-29); 5791 (2031-32); etc.
-Year B: 5784 (2023-24); 5787 (2026-27); 5790 (2029-30); 5792 (2032-33); etc.
-Year C: 5782 (2021-22); 5785 (2024-25); 5788 (2027-28); 5791 (2030-31); etc.
+Readings correspond with calendar years:
+* Year A: 5783 (2022-23); 5786 (2025-26); 5789 (2028-29); 5791 (2031-32)
+* Year B: 5784 (2023-24); 5787 (2026-27); 5790 (2029-30); 5792 (2032-33)
+* Year C: 5782 (2021-22); 5785 (2024-25); 5788 (2027-28); 5791 (2030-31)
