@@ -100,3 +100,8 @@ Readings correspond with calendar years:
 * Year A: 5783 (2022-23); 5786 (2025-26); 5789 (2028-29); 5791 (2031-32)
 * Year B: 5784 (2023-24); 5787 (2026-27); 5790 (2029-30); 5792 (2032-33)
 * Year C: 5782 (2021-22); 5785 (2024-25); 5788 (2027-28); 5791 (2030-31)
+
+## TODO
+* Fix the formatting for better presentation
+* Apply consistent styles to all the documents
+* Rename files (and readme) to have parasha names consistent with hebcal
