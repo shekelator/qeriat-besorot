@@ -5,18 +5,18 @@ Based on http://ourrabbis.org/main/resources/chayyei-yeshua-reading-cycle.
 | PARASHA               | YEAR A              | YEAR B        | YEAR C        |
 | --------------------- | ------------------- | ------------- | ------------- |
 | **GENESIS**           |                     |               |               |
-| Bereshit              | [John 1:1-18](texts/B'reisheet%20ABC.htm) | | |
+| Bereshit              | [John 1:1-18](texts/Bereshit%20ABC.htm) | | |
 | Noach                 | [Matthew 1:1-17](texts/Noach%20A.htm)      | Luke 1:26-38  | John 1:19-34  |
-| Lech-Lecha            | [Matthew 1:18-25](texts/Lech%20Lecha%20A.htm)     | Luke 2:1-20   | John 1:35-51  |
-| Vayyera               | [Matthew 2:1-12](texts/Vayera%20A.htm)      | Luke 2:21-40  | John 2:1-12   |
+| Lech-Lecha            | [Matthew 1:18-25](texts/Lech-Lecha%20A.htm)     | Luke 2:1-20   | John 1:35-51  |
+| Vayera                | [Matthew 2:1-12](texts/Vayera%20A.htm)      | Luke 2:21-40  | John 2:1-12   |
 | Chayyei Sara          | [Matthew 3:1-12](texts/Chayei%20Sarah%20A.htm)      | Luke 3:1-17   | John 2:13-25  |
-| Toledot               | [Matthew 3:13-4:11](texts/Toldot%20A.htm)   | Luke 3:18-38  | John 3:1-21   |
-| Vayyetze              | [Mark 1:14-28](texts/Vayetze%20A.htm)        | Luke 4:1-15   | John 4:5-30   |
-| Vayyishlach           | [Mark 1:29-45](texts/Vayishlach%20A.htm)        | Luke 4:16-30  | John 4:31-42  |
-| Vayyeshev             | [Matthew 5:1-16](texts/Vayeshev%20A.htm)      | Luke 4:31-44  | John 4:43-54  |
-| Miqqetz               | [Matthew 5:17-26](texts/Miketz%20A.htm)     | Luke 5:1-11   | John 5:1-15   |
-| Vayyigash             | [Matthew 5:27-48](texts/Vayigash%20A.htm)     | Luke 5:12-26  | John 5:16-29  |
-| Vayyechi              | [Matthew 6:1-18](texts/Vayechi%20A.htm)      | Luke 5:27-39  | John 5:30-47  |
+| Toldot                | [Matthew 3:13-4:11](texts/Toldot%20A.htm)   | Luke 3:18-38  | John 3:1-21   |
+| Vayetzei              | [Mark 1:14-28](texts/Vayetzei%20A.htm)        | Luke 4:1-15   | John 4:5-30   |
+| Vayishlach            | [Mark 1:29-45](texts/Vayishlach%20A.htm)        | Luke 4:16-30  | John 4:31-42  |
+| Vayeshev              | [Matthew 5:1-16](texts/Vayeshev%20A.htm)      | Luke 4:31-44  | John 4:43-54  |
+| Miketz                | [Matthew 5:17-26](texts/Miketz%20A.htm)     | Luke 5:1-11   | John 5:1-15   |
+| Vayigash              | [Matthew 5:27-48](texts/Vayigash%20A.htm)     | Luke 5:12-26  | John 5:16-29  |
+| Vayechi               | [Matthew 6:1-18](texts/Vayechi%20A.htm)      | Luke 5:27-39  | John 5:30-47  |
 | **EXODUS**            |                     |               |               |
 | Shemot                | Matthew 6:19-34     | Luke 6:1-16   | John 6:1-15   |
 | Va'era                | Matthew 7:1-12      | Luke 6:17-38  | John 6:16-29  |
