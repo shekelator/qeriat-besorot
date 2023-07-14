@@ -1,4 +1,4 @@
-.c0 {
+.verseNumber {
     font-family: "David";
     font-style: normal;
     font-variant: normal;
@@ -13,38 +13,7 @@
         none
 }
 
-.c1 {
-    font-family: "David";
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    font-size: 22pt;
-    color: #808080;
-    background-color:
-        transparent;
-    letter-spacing: normal;
-    text-decoration: none;
-    text-transform:
-        none
-}
-
-.c2 {
-    font-family: "Times New Roman";
-    font-style: normal;
-    font-variant:
-        normal;
-    font-weight: normal;
-    font-size: 14pt;
-    color: #808080;
-    background-color:
-        transparent;
-    letter-spacing: normal;
-    text-decoration: none;
-    text-transform:
-        none
-}
-
-.c3 {
+.hebText {
     font-family: "David";
     font-style: normal;
     font-variant: normal;
@@ -59,23 +28,7 @@
         none
 }
 
-.c4 {
-    font-family: "Times New Roman";
-    font-style: normal;
-    font-variant:
-        normal;
-    font-weight: normal;
-    font-size: 14pt;
-    color: #000000;
-    background-color:
-        transparent;
-    letter-spacing: normal;
-    text-decoration: none;
-    text-transform:
-        none
-}
-
-.c5 {
+.hebHeader {
     font-family: "David";
     font-style: normal;
     font-variant: normal;
@@ -90,36 +43,7 @@
         none
 }
 
-.c6 {
-    font-family: "David";
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    font-size: 12pt;
-    color: #000000;
-    background-color:
-        transparent;
-    letter-spacing: normal;
-    text-decoration: none;
-    text-transform:
-        none
-}
-
-.c7 {
-    font-family: "Times New Roman";
-    font-style: normal;
-    font-variant:
-        normal;
-    font-weight: normal;
-    font-size: 10pt;
-    color: #000000;
-    background-color: transparent;
-    letter-spacing: normal;
-    text-decoration: none;
-    text-transform: none
-}
-
-.c8 {
+.engHeader {
     font-family: "Times New Roman";
     font-style: normal;
     font-variant:
