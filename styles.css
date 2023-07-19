@@ -1,5 +1,10 @@
+div.textBody {
+    text-align: justify;
+}
+
 .verseNumber {
-    font-family: "David";
+    /* font-family: "David"; */
+    font-family: "Noto Serif Hebrew", serif;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -14,7 +19,8 @@
 }
 
 .hebText {
-    font-family: "David";
+    /* font-family: "David"; */
+    font-family: "Noto Serif Hebrew", serif;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -29,18 +35,20 @@
 }
 
 .hebHeader {
-    font-family: "David";
+    /* font-family: "David"; */
+    font-family: "Noto Serif Hebrew", serif;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
-    font-size: 14pt;
+    font-weight: bold;
+    font-size: 28pt;
+    text-align: center;
     color: #000000;
     background-color:
         transparent;
     letter-spacing: normal;
     text-decoration: none;
-    text-transform:
-        none
+    text-transform: none;
+    margin-bottom: 12px;
 }
 
 .engHeader {
@@ -49,10 +57,22 @@
     font-variant:
         normal;
     font-weight: normal;
-    font-size: 12pt;
+    margin-bottom: 12px;
+    text-align: center;
+    font-size: 18pt;
     color: #000000;
     background-color: transparent;
     letter-spacing: normal;
     text-decoration: none;
     text-transform: none
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table td {
+    border: 1px dotted black;
+    padding: 5px;
 }
