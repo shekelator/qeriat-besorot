@@ -9,6 +9,10 @@
             font-family: "Noto Serif Hebrew", serif;
             font-size: 1.5em;
         }
+
+        .current-year {
+            background-color: blueviolet;
+        }
     </style>
 </head>
 <body>
@@ -19,9 +23,9 @@
 <thead>
 <tr>
 <th>PARASHA</th>
-<th>YEAR A</th>
-<th>YEAR B</th>
-<th>YEAR C</th>
+<th class="year-a">YEAR A</th>
+<th class="year-b">YEAR B</th>
+<th class="year-c">YEAR C</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -222,7 +226,7 @@
 <tr>
 <td>- <em>when just Acharei Mot</em></td>
 <td>Matthew 19:1-12</td>
-<td>Luke 14:1-11</td>
+<td><a href="texts/Acharei Mot B.htm">Luke 14:1-11</a></td>
 <td>John 10:1-10</td>
 </tr>
 <tr>
@@ -514,5 +518,17 @@
 <li>Apply consistent styles to all the documents</li>
 <li>Rename files (and readme) to have parasha names consistent with hebcal</li>
 </ul>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function() {
+
+        const currentHebrewYear = 5784; // TODO make dynamic?
+
+        var yearClass = currentHebrewYear % 3 === 0 ? 'year-b' : currentHebrewYear % 3 === 1 ? 'year-c' : 'year-a';
+
+        let currentText = $('table th.' + yearClass).text();
+        $('table th.' + yearClass).text(currentText + ' (current)');
+    });
+</script>
 </body>
 </html>
